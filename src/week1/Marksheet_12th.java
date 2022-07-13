@@ -13,6 +13,7 @@ public class Marksheet_12th {//Class Marksheet_12th
         int b       =12;
         int t       =(+(m1)+(m2+2)+(m3+2)+(m4));
         int t1      =100;
+        int t3      =(t1*6);
         int t4      =300;
 
           /*Display and Processing part*/
@@ -30,9 +31,9 @@ public class Marksheet_12th {//Class Marksheet_12th
         System.out.println("Accountancy           "+t1+"                   "+(m1));
         System.out.println("Economics             "+t1+"                   "+(m3));
         System.out.println("Hindi                 "+t1+"                   "+(m2));
-        System.out.println("Computer practicle    "+t1+"                   "+(m3));
+        System.out.println("Computer practical    "+t1+"                   "+(m3));
         System.out.println("----------------------------------------------------------");
-        System.out.println("Total :  "                                      +t ) ;
+        System.out.println("Total :              "+t3+"                     "+t ) ;
         System.out.println("----------------------------------------------------------");
 
         if (t>t4);{
