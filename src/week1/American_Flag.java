@@ -3,20 +3,20 @@ package week1;
 
 public class American_Flag {//Class American_Flag
         public static void main(String args[]){//Main method
-            System.out.println("******=========================");/*These are printing statements*/
-            System.out.println("*****==========================");
-            System.out.println("******=========================");
-            System.out.println("*****==========================");
-            System.out.println("******=========================");
-            System.out.println("*****==========================");
-            System.out.println("******=========================");
-            System.out.println("*****==========================");
-            System.out.println("******=========================");
-            System.out.println("===============================");
-            System.out.println("===============================");
-            System.out.println("===============================");
-            System.out.println("===============================");
-            System.out.println("===============================");
-            System.out.println("===============================");
+            System.out.println("* * * * * * ==================================");/*These are printing statements*/
+            System.out.println(" * * * * *  ==================================");
+            System.out.println("* * * * * * ==================================");
+            System.out.println(" * * * * *  ==================================");
+            System.out.println("* * * * * * ==================================");
+            System.out.println(" * * * * *  ==================================");
+            System.out.println("* * * * * * ==================================");
+            System.out.println(" * * * * *  ==================================");
+            System.out.println("* * * * * * ==================================");
+            System.out.println("==============================================");
+            System.out.println("==============================================");
+            System.out.println("==============================================");
+            System.out.println("==============================================");
+            System.out.println("==============================================");
+            System.out.println("==============================================");
         }
 }
