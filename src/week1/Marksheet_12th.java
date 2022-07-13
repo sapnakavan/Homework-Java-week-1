@@ -16,9 +16,12 @@ public class Marksheet_12th {//Class Marksheet_12th
         int t4      =300;
 
           /*Display and Processing part*/
+        System.out.println("----------------------------------------------------------");
         System.out.println("           Central Board of  Higher Secondary  Education  " );
+        System.out.println("----------------------------------------------------------");
         System.out.println("Student Name: " +name);
         System.out.println("Roll No:      " +b);
+        System.out.println("----------------------------------------------------------");
 
 
         System.out.println("Subject           Total Marks         Obtained Marks   ");
@@ -28,10 +31,12 @@ public class Marksheet_12th {//Class Marksheet_12th
         System.out.println("Economics             "+t1+"                   "+(m3));
         System.out.println("Hindi                 "+t1+"                   "+(m2));
         System.out.println("Computer practicle    "+t1+"                   "+(m3));
+        System.out.println("----------------------------------------------------------");
         System.out.println("Total :  "                                      +t ) ;
+        System.out.println("----------------------------------------------------------");
 
         if (t>t4);{
-            System.out.println("Result :         PASS");
+            System.out.println("Result :  PASS");
 
         }
 
