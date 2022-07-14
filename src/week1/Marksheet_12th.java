@@ -6,8 +6,8 @@ public class Marksheet_12th {//Class Marksheet_12th
 
         /*Variable Declaration part*/
         String name = "Sapna Patel";
-        int m1      =65;
-        int m2      =75;
+        int m1      =75;
+        int m2      =25;
         int m3      =80;
         int m4      =85;
         int b       =12;
